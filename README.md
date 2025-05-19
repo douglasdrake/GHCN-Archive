@@ -3,7 +3,7 @@
 # The Global Historical Climatology Network
 
 As described by 
-[The Global Historical Climatology Network](https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets/global-historical-climatology-network-ghcn), 
+[The Global Historical Climatology Network](https://www.drought.gov/data-maps-tools/global-historical-climatology-network-ghcn), 
 the GHCN is an integrated database of climate summaries 
 from land surface stations across the 
 globe that have been subjected to a common suite of quality assurance reviews. 
